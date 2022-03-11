@@ -12,6 +12,12 @@ as configurações do application.propeties para realizar a conexão.
 A integração do front é realizada através de um redirecionamento utilizando proxy. O arquivo proxy.config.js possui os
 parâmetros para efetuar o redirecionamento.
 
+Atualizar gerenciadores de pacote:
+
+npm install
+ng update
+npm update
+
 Para utilizar o proxy inicie a aplicação utilizando o comando: npm run start 
 _______________________________________________________________________________________________________
 
