@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "regiao": "Norte",
-    "total_exames": 10
+    "total_exames": 10,
+    "regiao": "Norte"
   },
   {
     "id": 2,
